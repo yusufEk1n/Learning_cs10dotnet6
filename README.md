@@ -1,0 +1,1 @@
+**this repo was created to learn cs6dotnet10 by yusufEk1n**
