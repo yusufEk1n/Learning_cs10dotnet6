@@ -1,0 +1,1 @@
+değişkenler için cast işlemini, var ve dynamic keyword ile değişken tanımlamayı, C# 9 ile gelen "target-type new" syntax'ını ve arraylar ve döngüler ile basit işlemler yapmayı gördük. 
