@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "Operators"
+		},
+		{
+			"path": "BooleanOperators"
 		}
 	],
 	"settings": {}
