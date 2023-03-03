@@ -1,7 +1,7 @@
 ﻿using static System.Console;
 
 // Not: Bitwise operatörleri bitler üzerinde çalışır.
-//Bitwise operatörleri
+// Bitwise operatörleri
 int a = 10; // 0000 1010 (2^1 + 2^3);
 int b = 6;  // 0000 0110 (2^1 + 2^2);
 

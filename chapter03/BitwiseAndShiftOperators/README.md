@@ -1,1 +1,2 @@
-Bitwise ve shift operatörleni kullanarak number değişkenler üzerinde işlemler yaptık.
+## Neler Yapıldı 
+- Bitwise ve shift operatörleni kullanarak number değişkenler üzerinde işlemler yaptık.
